@@ -1,7 +1,7 @@
 # A2 Online Judge Solutions
 
 
-It'll contain solution to problems from different ladders of [a2oj](https://a2oj.com/ladders "Ladders") .
+This repository contains solution to problems from different ladders of [a2oj](https://a2oj.com/ladders "Ladders") .
 
 ---
 
