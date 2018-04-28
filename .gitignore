@@ -4,9 +4,6 @@
 #unignore file with extension
 !*.cpp
 
-#adding a hudai line
-
 #unignore directories
 !*/
 
-#just emnie e add korlam
