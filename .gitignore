@@ -1,2 +1,11 @@
+#ignore all
+*
+
+#unignore file with extension
+!*.*
+
+#ignore text file
 *.txt
-*.out
+
+#unignore directories
+!*/
