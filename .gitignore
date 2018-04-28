@@ -4,8 +4,5 @@
 #unignore file with extension
 !*.cpp
 
-#ignore text file
-*.txt
-
 #unignore directories
 !*/
